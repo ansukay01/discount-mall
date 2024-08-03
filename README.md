@@ -1,1 +1,1 @@
-# discount-mall
+# discount-mall - A super mall for discount for cheaper products
